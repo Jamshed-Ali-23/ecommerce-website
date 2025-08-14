@@ -1,5 +1,5 @@
 
-🔗 Live Site 👉 : https://github.com/Jamshed-Ali-23/ecommerce-website
+🔗 Live Site 👉 : https://jamshed-ali-23.github.io/ecommerce-website/
 
 
 
